@@ -51,10 +51,10 @@ The notebook was built for Google Colab (Kaggle API download, GPU runtime) and e
 **Note on licensing**: parts of the course-provided starter code in this notebook are licensed under Apache License 2.0 (© 2025 Eugenio Lomurno, Alberto Archetti, Roberto Basla, Carlo Sgaravatti) — this attribution is kept intact in the notebook as required by that license.
 
 ## Authors
-
+Politecnico di Milano — Artificial Neural Networks and Deep Learning
 - BENKIRANE Ilyas
 - LECOMTE Anatole
 - LUNEAU Nathan
 
   
-Politecnico di Milano — Artificial Neural Networks and Deep Learning
+
